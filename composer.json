@@ -1,5 +1,5 @@
 {
-    "name" : "ruudy/metronic-bundle",
+    "name" : "webeith/metronic-bundle",
     "description" : "Symfony2 Bootstrap Backend/Admin Theme based on Metronic",
     "type" : "symfony-bundle",
     "authors" : [{
