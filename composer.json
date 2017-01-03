@@ -19,7 +19,7 @@
     ],
     "require" : {
         "php": ">=5.4",
-        "symfony/symfony": "2.*",
+        "symfony/symfony": ">=2.8",
         "twig/extensions": "~1.0"
     },
     "autoload" : {
